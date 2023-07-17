@@ -6,10 +6,18 @@
 - город нахождения магазина;
 - количество пользователей, закреплённых в этом магазине.
 
+![alt text](https://github.com/SemikovaTV/hw_sql2/blob/main/1.jpg)
+
 ### Задание 2
 
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
+![alt text](https://github.com/SemikovaTV/hw_sql2/blob/main/2.jpg)
+
 ### Задание 3
 
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
+
+![alt text](https://github.com/SemikovaTV/hw_sql2/blob/main/3.jpg)
+
+Ссылка на скрипт - [Ссылка](https://github.com/SemikovaTV/hw_sql2/blob/main/script.sql) 
